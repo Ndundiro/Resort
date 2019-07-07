@@ -1,0 +1,65 @@
+
+ #presidential{
+    text-align: center;   
+}
+#accomodation{
+    display: flex;
+    justify-content: space-around;
+    height: 280px;
+    padding-top: 80px;
+    }
+
+.president{
+    height:400px;
+    width:90%;
+    padding-left:40px;   
+}
+
+#rooms{
+    display:flex;
+    justify-content: space-around;
+}
+.room{
+    border-radius: 7px;
+}
+.activities1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+}
+.activities2{   display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+    
+}
+
+.activity1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.activity2{
+    display: flex;
+    justify-content: space-around
+}
+
+.img{
+    border-radius: 7px;
+}
+nav{
+    text-align: right;
+    padding-top: 25px;
+}
+nav a{
+    text-decoration: none;
+    padding:20px;
+    font-family: 'Roboto Mono'
+    
+}
+.container{
+    background-color: azure;
+}
